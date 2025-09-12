@@ -505,7 +505,7 @@ void print_help(){
     printf("  ai <depth>          - calcula melhor movimento com profundidade\n");
     printf("  play <depth>        - joga contra motor\n");
     printf("  perft <depth>       - perft basico (limitado)\n");
-    printf("  exit                - sai\");
+    printf("  exit                - sai\n");
 }
 
 int main(int argc, char **argv){
