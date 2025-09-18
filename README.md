@@ -1,27 +1,21 @@
-# fundamentos-cotil
-Um repositório para os arquivos da disciplina de fundamentos
+fundamentals-cotil
+基礎コースファイルのリポジトリ
 
-## Sobre Mim
+自己紹介
+アンソニーです。私は仕事と勉強のバランスを日々心がけている献身的な人間です。自由時間には、私の最大の情熱の一つであるビデオゲームを楽しんでいます。プロフェッショナルでありながら、人生のシンプルな喜びも大切にしています。
 
-Meu nome é **Anthony**, sou uma pessoa dedicada que concilia trabalho e estudos no dia a dia. Nos meus momentos de lazer, gosto de jogar _videogames_, uma das minhas maiores paixões. Acredito no equilíbrio entre responsabilidade e diversão, buscando sempre crescer pessoal e profissionalmente sem deixar de aproveitar os pequenos prazeres da vida
+スキル
+- Marvel's Rivals を上手にプレイする - 速読が得意 - タンジュースを作る
 
-### Habilidades
+初めてのプログラム
+Hello World! を起動するには、適切な do をここに記述してください。
 
--Jogar bem marvel rivals
--[Ler rapidamente](https://www.unifoa.edu.br/como-ler-mais-rapido-dicas-praticas)
--Fazer suco tang
-
-## Meu Primeiro Programa
-
-Para iniciar programação, o primeiro e clássico comando utilizado na linguagem C é 'printf()', tendo em conta a LENDA que jaz que todo código deve começar com Hello World! provindo do propriamente dito.
-
-'''
-#include <stdio.h>
+''' #include <stdio.h>
 
 int main() {
 
-    printf("Hello, World!\n");
+printf("Hello World!\n");
 
-    return 0;
-}
-'''
+return 0;
+} '''
+Fundamentals - cotil kiso kōsufairu no ripojitori jiko shōkai ansonīdesu. Watashi wa shigoto to benkyō no baransu o hibi kokorogakete iru kenshin-tekina ningendesu. Jiyū jikan ni wa, watashi no saidai no jōnetsu no hitotsudearu bideogēmu o tanoshinde imasu. Purofesshonarudearinagara, jinsei no shinpuruna yorokobi mo taisetsu ni shite imasu. Sukiru - māberu' s Rivals o jōzu ni purei suru - sokudoku ga tokui - tanjūsu o tsukuru hajimete no puroguramu haro World! O kidō suru ni wa, tekisetsuna do o koko ni kijutsu shite kudasai. ''' # Inkurūdo < stdio. H > int mēn ( ) {printf (" haro World! \ N"); return 0; }'''
